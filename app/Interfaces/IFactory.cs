@@ -1,8 +1,8 @@
 using System;
 
-namespace Application
+namespace Application.Interfaces
 {
-    interface IFactory<T>
+    interface IFactory
     {
         public IForge createForge(string ringToCreate);
     }

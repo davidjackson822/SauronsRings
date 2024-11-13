@@ -1,5 +1,9 @@
-namespace Application.enums {
-    enum Gems {
+using System;
+
+namespace Application.Enums
+{
+    enum Gems
+    {
         Sapphire,
         Emerald,
         Diamond,

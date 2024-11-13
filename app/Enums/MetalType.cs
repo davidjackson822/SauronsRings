@@ -1,4 +1,7 @@
-namespace Application.enums {
+using System;
+
+namespace Application.Enums
+{
     enum MetalType
     {
         Silver,
