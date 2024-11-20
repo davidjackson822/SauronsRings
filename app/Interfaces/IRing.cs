@@ -1,8 +1,6 @@
-using System;
-
 namespace Application.Interfaces
 {
-    interface IRing
+    public interface IRing
     {
         public void RandomizePower();
     }
